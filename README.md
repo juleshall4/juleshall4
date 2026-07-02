@@ -1,1 +1,1 @@
-I like making things
+I like making things, sometimes physical, sometimes digital and sometimes both!
