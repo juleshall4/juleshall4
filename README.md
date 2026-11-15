@@ -1,4 +1,4 @@
-I love making things: sometimes physical, sometimes digital, and sometimes both.
+I love making things: sometimes physical, sometimes digital, and sometimes both!
 
 Right now I'm working on Dartcade, a low-cost smart darts system for venues, and building apps for my Unihertz Titan 2 Elite:
 
